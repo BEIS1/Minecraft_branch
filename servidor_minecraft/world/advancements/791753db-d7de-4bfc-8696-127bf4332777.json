@@ -2681,6 +2681,7 @@
       "minecraft:slime": "2024-10-23 13:32:40 +0000",
       "minecraft:cave_spider": "2024-10-23 13:48:30 +0000",
       "minecraft:enderman": "2024-10-23 15:57:40 +0000",
+      "minecraft:stray": "2024-10-24 16:45:40 +0000",
       "minecraft:zombie": "2024-10-22 18:30:06 +0000"
     },
     "done": false
@@ -2951,6 +2952,7 @@
       "potato": "2024-10-22 19:28:44 +0000",
       "bread": "2024-10-22 18:49:52 +0000",
       "salmon": "2024-10-23 23:56:11 +0000",
+      "cooked_rabbit": "2024-10-24 15:55:10 +0000",
       "cooked_chicken": "2024-10-23 21:13:33 +0000",
       "cooked_salmon": "2024-10-24 00:02:54 +0000"
     },
@@ -6736,75 +6738,177 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-10-24 16:46:21 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-10-24 16:46:21 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-10-24 16:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-10-24 16:46:21 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-10-24 16:46:21 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-10-24 16:46:21 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-10-24 16:46:21 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-10-24 16:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-10-24 16:47:19 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/cod_barrel": {
+    "criteria": {
+      "has_cod": "2024-10-24 16:49:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2024-10-24 16:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-10-24 16:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-10-24 16:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-10-24 16:49:03 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/cod_crate": {
+    "criteria": {
+      "has_cod": "2024-10-24 16:49:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2024-10-24 17:05:06 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/turtle_soup": {
+    "criteria": {
+      "has_items": "2024-10-24 17:20:31 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-24 15:41:32 +0000"
+      "log_spam_fixer": "2024-10-24 17:47:01 +0000"
     },
     "done": false
   },
