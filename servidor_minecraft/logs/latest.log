@@ -1,0 +1,37 @@
+[24Oct2024 00:02:14.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13691, l='ServerLevel[world]', x=611.30, y=70.00, z=-824.78] died, message: 'Unemployed was turned to ice by Ice Dragon'
+[24Oct2024 00:15:08.985] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=97, y=73, z=496} but found not block entity block Block{minecraft:air} at location
+[24Oct2024 00:15:08.985] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=97, y=73, z=496}
+[24Oct2024 00:15:08.986] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=96, y=64, z=496} but found not block entity block Block{minecraft:air} at location
+[24Oct2024 00:15:08.986] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=96, y=64, z=496}
+[24Oct2024 00:15:12.585] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=97, y=73, z=495} but found not block entity block Block{minecraft:air} at location
+[24Oct2024 00:15:12.585] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=97, y=73, z=495}
+[24Oct2024 00:15:40.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss died
+[24Oct2024 00:15:58.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss died
+[24Oct2024 00:16:03.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss died
+[24Oct2024 00:21:12.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss died
+[24Oct2024 00:21:15.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
+[24Oct2024 00:22:25.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[24Oct2024 00:29:06.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[24Oct2024 00:31:21.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[24Oct2024 00:33:07.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L4TT3R14 lost connection: Disconnected
+[24Oct2024 00:33:07.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 left the game
+[24Oct2024 00:36:58.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
+[24Oct2024 00:36:58.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
+[24Oct2024 00:37:11.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Oct2024 00:37:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Oct2024 00:37:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Oct2024 00:37:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Oct2024 00:37:11.389] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[24Oct2024 00:37:11.391] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[24Oct2024 00:37:11.424] [DefaultDispatcher-worker-2/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[24Oct2024 00:37:11.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Oct2024 00:37:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Oct2024 00:37:15.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[24Oct2024 00:37:15.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Oct2024 00:37:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[24Oct2024 00:37:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Oct2024 00:37:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Oct2024 00:37:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[24Oct2024 00:37:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Oct2024 00:37:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[24Oct2024 00:37:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
