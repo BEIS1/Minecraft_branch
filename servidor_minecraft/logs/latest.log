@@ -3085,3 +3085,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Oct2024 12:11:06.946] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 791753db-d7de-4bfc-8696-127bf4332777 was loaded
 [24Oct2024 12:11:06.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
 [24Oct2024 12:14:12.045] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@61298897
+[24Oct2024 12:31:36.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Zombie
+[24Oct2024 12:31:40.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
+[24Oct2024 12:31:49.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
+[24Oct2024 12:31:49.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
