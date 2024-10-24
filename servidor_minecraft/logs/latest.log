@@ -3089,3 +3089,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Oct2024 12:31:40.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
 [24Oct2024 12:31:49.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
 [24Oct2024 12:31:49.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
+[24Oct2024 12:49:34.392] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lvpvss is 791753db-d7de-4bfc-8696-127bf4332777
+[24Oct2024 12:49:40.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lvpvss[/127.71.207.222:32873] logged in with entity id 2799 at (666.6439933666181, 112.0, 21.060968589410322)
+[24Oct2024 12:49:40.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss joined the game
+[24Oct2024 12:49:40.768] [Server thread/INFO] [Jade/]: Syncing config to Lvpvss (791753db-d7de-4bfc-8696-127bf4332777)
