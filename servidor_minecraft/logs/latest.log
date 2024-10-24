@@ -3059,3 +3059,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Oct2024 14:59:24.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
 [24Oct2024 14:59:39.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
 [24Oct2024 14:59:39.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
+[24Oct2024 15:02:37.292] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lvpvss is 791753db-d7de-4bfc-8696-127bf4332777
+[24Oct2024 15:02:43.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lvpvss[/127.71.207.222:34407] logged in with entity id 516 at (671.2064180582795, 113.0, 33.482393820566514)
+[24Oct2024 15:02:43.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss joined the game
+[24Oct2024 15:02:43.537] [Server thread/INFO] [Jade/]: Syncing config to Lvpvss (791753db-d7de-4bfc-8696-127bf4332777)
+[24Oct2024 15:07:40.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
+[24Oct2024 15:07:40.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
+[24Oct2024 15:07:40.220] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 791753db-d7de-4bfc-8696-127bf4332777 was unloaded
+[24Oct2024 15:08:04.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Oct2024 15:08:04.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Oct2024 15:08:04.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Oct2024 15:08:04.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Oct2024 15:08:04.457] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[24Oct2024 15:08:04.459] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[24Oct2024 15:08:04.514] [DefaultDispatcher-worker-1/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[24Oct2024 15:08:04.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Oct2024 15:08:07.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[24Oct2024 15:08:07.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Oct2024 15:08:07.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[24Oct2024 15:08:07.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Oct2024 15:08:07.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Oct2024 15:08:07.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[24Oct2024 15:08:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Oct2024 15:08:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[24Oct2024 15:08:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Oct2024 15:08:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
