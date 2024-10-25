@@ -3264,3 +3264,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Oct2024 02:00:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
 [25Oct2024 02:01:02.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
 [25Oct2024 02:01:02.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
+[25Oct2024 02:04:47.559] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lvpvss is 791753db-d7de-4bfc-8696-127bf4332777
+[25Oct2024 02:04:53.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lvpvss[/127.71.207.222:55709] logged in with entity id 18995 at (1194.699999988079, 71.0, 70.69999998807907)
+[25Oct2024 02:04:53.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss joined the game
+[25Oct2024 02:04:53.744] [Server thread/INFO] [Jade/]: Syncing config to Lvpvss (791753db-d7de-4bfc-8696-127bf4332777)
+[25Oct2024 02:05:42.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Creative Mode]
+[25Oct2024 02:08:51.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss has completed the challenge [Necronomicon]
+[25Oct2024 02:09:44.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss has made the advancement [Magery]
