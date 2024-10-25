@@ -3186,3 +3186,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Oct2024 00:53:42.362] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 791753db-d7de-4bfc-8696-127bf4332777 was loaded
 [25Oct2024 00:59:19.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Lvpvss
 [25Oct2024 01:00:12.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[25Oct2024 01:03:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Survival Mode]
+[25Oct2024 01:05:29.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Dread Ghoul
+[25Oct2024 01:05:38.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by L4TT3R14
+[25Oct2024 01:05:51.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Dread Thrall
+[25Oct2024 01:06:04.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was not rescued in time
+[25Oct2024 01:07:45.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Dread Beast
+[25Oct2024 01:08:29.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Dread Knight
+[25Oct2024 01:08:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was not rescued in time
+[25Oct2024 01:08:49.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L4TT3R14 lost connection: Disconnected
+[25Oct2024 01:08:49.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 left the game
+[25Oct2024 01:08:51.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
+[25Oct2024 01:08:59.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
+[25Oct2024 01:08:59.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
+[25Oct2024 01:10:14.277] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player L4TT3R14 is a72c94b1-df99-4df9-a3db-998020745311
+[25Oct2024 01:10:20.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L4TT3R14[/127.70.217.38:39867] logged in with entity id 11602 at (1213.40349288406, 64.0, 36.80035599473887)
+[25Oct2024 01:10:20.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 joined the game
+[25Oct2024 01:10:20.443] [Server thread/INFO] [Jade/]: Syncing config to L4TT3R14 (a72c94b1-df99-4df9-a3db-998020745311)
+[25Oct2024 01:10:27.035] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lvpvss is 791753db-d7de-4bfc-8696-127bf4332777
+[25Oct2024 01:10:33.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lvpvss[/127.71.207.222:49195] logged in with entity id 11654 at (1198.699999988079, 71.0, 73.73301393444727)
+[25Oct2024 01:10:33.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss joined the game
+[25Oct2024 01:10:33.192] [Server thread/INFO] [Jade/]: Syncing config to Lvpvss (791753db-d7de-4bfc-8696-127bf4332777)
+[25Oct2024 01:11:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Dread Ghoul
+[25Oct2024 01:11:06.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Teleported Lvpvss to L4TT3R14]
+[25Oct2024 01:11:20.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was not rescued in time
+[25Oct2024 01:11:29.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L4TT3R14 lost connection: Disconnected
+[25Oct2024 01:11:29.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 left the game
+[25Oct2024 01:11:50.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Creative Mode]
+[25Oct2024 01:12:25.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Survival Mode]
+[25Oct2024 01:13:16.656] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player L4TT3R14 is a72c94b1-df99-4df9-a3db-998020745311
+[25Oct2024 01:13:22.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L4TT3R14[/127.70.217.38:56513] logged in with entity id 12643 at (1210.6630235246894, 63.0, 31.674962926333723)
+[25Oct2024 01:13:22.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 joined the game
+[25Oct2024 01:13:22.846] [Server thread/INFO] [Jade/]: Syncing config to L4TT3R14 (a72c94b1-df99-4df9-a3db-998020745311)
+[25Oct2024 01:16:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Dread Beast
+[25Oct2024 01:16:14.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
+[25Oct2024 01:16:37.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Dread Thrall
+[25Oct2024 01:17:16.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Dread Knight
+[25Oct2024 01:17:30.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was not rescued in time
+[25Oct2024 01:17:39.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L4TT3R14 lost connection: Disconnected
+[25Oct2024 01:17:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 left the game
+[25Oct2024 01:17:45.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Creative Mode]
+[25Oct2024 01:18:18.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Survival Mode]
+[25Oct2024 01:18:30.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Dread Ghoul
+[25Oct2024 01:18:33.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
+[25Oct2024 01:18:48.493] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player L4TT3R14 is a72c94b1-df99-4df9-a3db-998020745311
+[25Oct2024 01:18:53.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Dread Ghoul
+[25Oct2024 01:18:54.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L4TT3R14[/127.70.217.38:47235] logged in with entity id 14257 at (1216.127159812636, 68.0, 52.95005711747843)
+[25Oct2024 01:18:54.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 joined the game
+[25Oct2024 01:18:54.724] [Server thread/INFO] [Jade/]: Syncing config to L4TT3R14 (a72c94b1-df99-4df9-a3db-998020745311)
+[25Oct2024 01:19:33.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss died
+[25Oct2024 01:19:38.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss died
+[25Oct2024 01:20:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss died
+[25Oct2024 01:20:32.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Creative Mode]
