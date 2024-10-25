@@ -3238,3 +3238,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Oct2024 01:19:38.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss died
 [25Oct2024 01:20:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss died
 [25Oct2024 01:20:32.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Creative Mode]
+[25Oct2024 01:21:48.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Survival Mode]
+[25Oct2024 01:23:56.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Dread Thrall
+[25Oct2024 01:24:10.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Dread Thrall
+[25Oct2024 01:24:14.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[25Oct2024 01:25:31.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Lvpvss
+[25Oct2024 01:25:37.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Lvpvss
+[25Oct2024 01:26:03.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Creative Mode]
+[25Oct2024 01:28:42.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Lvpvss
