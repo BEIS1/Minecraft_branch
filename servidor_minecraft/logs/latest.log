@@ -3155,3 +3155,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Oct2024 00:38:38.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 has made the advancement [Hot Stuff]
 [25Oct2024 00:39:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Teleported Lvpvss to 1215.500000, 70.500000, 63.500000]
 [25Oct2024 00:39:49.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Teleported L4TT3R14 to Lvpvss]
+[25Oct2024 00:41:49.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Dread Beast
+[25Oct2024 00:42:08.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
+[25Oct2024 00:42:16.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Teleported Lvpvss to L4TT3R14]
+[25Oct2024 00:44:07.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Creative Mode]
+[25Oct2024 00:44:36.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[25Oct2024 00:45:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was not rescued in time
+[25Oct2024 00:45:34.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Dread Thrall
+[25Oct2024 00:46:00.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[25Oct2024 00:46:06.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was not rescued in time
+[25Oct2024 00:50:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Dread Ghoul
+[25Oct2024 00:52:34.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Timed out
+[25Oct2024 00:52:34.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
+[25Oct2024 00:52:34.822] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 791753db-d7de-4bfc-8696-127bf4332777 was unloaded
+[25Oct2024 00:52:35.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L4TT3R14 lost connection: Disconnected
+[25Oct2024 00:52:35.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 left the game
+[25Oct2024 00:52:35.694] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a72c94b1-df99-4df9-a3db-998020745311 was unloaded
+[25Oct2024 00:52:35.739] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Oct2024 00:52:46.837] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player L4TT3R14 is a72c94b1-df99-4df9-a3db-998020745311
+[25Oct2024 00:52:52.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L4TT3R14[/127.70.217.38:48077] logged in with entity id 8871 at (1205.300000011921, 71.0, 70.54955809132446)
+[25Oct2024 00:52:52.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 joined the game
+[25Oct2024 00:52:53.003] [Server thread/INFO] [Jade/]: Syncing config to L4TT3R14 (a72c94b1-df99-4df9-a3db-998020745311)
+[25Oct2024 00:52:54.033] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a72c94b1-df99-4df9-a3db-998020745311 was loaded
+[25Oct2024 00:53:26.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[25Oct2024 00:53:29.630] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fa5650a[id=<null>,name=Lvpvss,properties={},legacy=false] (/127.71.207.222:58859) lost connection: Disconnected
+[25Oct2024 00:53:35.148] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lvpvss is 791753db-d7de-4bfc-8696-127bf4332777
+[25Oct2024 00:53:41.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lvpvss[/127.71.207.222:58121] logged in with entity id 9226 at (1193.1345513677804, 71.0, 72.94078287634218)
+[25Oct2024 00:53:41.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss joined the game
+[25Oct2024 00:53:41.436] [Server thread/INFO] [Jade/]: Syncing config to Lvpvss (791753db-d7de-4bfc-8696-127bf4332777)
+[25Oct2024 00:53:42.362] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 791753db-d7de-4bfc-8696-127bf4332777 was loaded
+[25Oct2024 00:59:19.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Lvpvss
+[25Oct2024 01:00:12.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died

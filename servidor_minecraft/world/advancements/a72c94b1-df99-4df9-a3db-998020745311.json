@@ -8711,5 +8711,17 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-10-25 00:38:38 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/blasting_sail": {
+    "criteria": {
+      "has_lava_bucket": "2024-10-25 00:38:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
