@@ -3129,3 +3129,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Oct2024 00:22:18.884] [Server thread/INFO] [Jade/]: Syncing config to L4TT3R14 (a72c94b1-df99-4df9-a3db-998020745311)
 [25Oct2024 00:29:16.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss died
 [25Oct2024 00:29:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[25Oct2024 00:30:03.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[25Oct2024 00:31:20.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Teleported Lvpvss to 691.500000, 121.500000, 17.500000]
+[25Oct2024 00:32:26.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Teleported Lvpvss to L4TT3R14]
+[25Oct2024 00:33:16.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 died
+[25Oct2024 00:33:18.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was not rescued in time
+[25Oct2024 00:33:54.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Dread Beast
+[25Oct2024 00:34:06.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Dread Beast
+[25Oct2024 00:34:09.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
+[25Oct2024 00:34:09.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was not rescued in time
+[25Oct2024 00:34:19.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L4TT3R14 lost connection: Disconnected
+[25Oct2024 00:34:19.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 left the game
+[25Oct2024 00:34:21.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
+[25Oct2024 00:34:21.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
+[25Oct2024 00:35:41.836] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lvpvss is 791753db-d7de-4bfc-8696-127bf4332777
+[25Oct2024 00:35:46.355] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player L4TT3R14 is a72c94b1-df99-4df9-a3db-998020745311
+[25Oct2024 00:35:47.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lvpvss[/127.71.207.222:33329] logged in with entity id 4950 at (1206.7671476712499, 69.0, 51.9877909296948)
+[25Oct2024 00:35:48.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss joined the game
+[25Oct2024 00:35:48.019] [Server thread/INFO] [Jade/]: Syncing config to Lvpvss (791753db-d7de-4bfc-8696-127bf4332777)
+[25Oct2024 00:35:53.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L4TT3R14[/127.70.217.38:59453] logged in with entity id 5087 at (1185.3833939392032, 66.0, 49.17822633056853)
+[25Oct2024 00:35:53.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 joined the game
+[25Oct2024 00:35:53.345] [Server thread/INFO] [Jade/]: Syncing config to L4TT3R14 (a72c94b1-df99-4df9-a3db-998020745311)
+[25Oct2024 00:36:24.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Teleported Lvpvss to 693.500000, 113.500000, 22.500000]
+[25Oct2024 00:36:41.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Teleported L4TT3R14 to Lvpvss]
+[25Oct2024 00:38:38.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 has made the advancement [Hot Stuff]
+[25Oct2024 00:39:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Teleported Lvpvss to 1215.500000, 70.500000, 63.500000]
+[25Oct2024 00:39:49.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Teleported L4TT3R14 to Lvpvss]
