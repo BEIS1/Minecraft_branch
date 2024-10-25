@@ -3246,3 +3246,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Oct2024 01:25:37.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Lvpvss
 [25Oct2024 01:26:03.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Creative Mode]
 [25Oct2024 01:28:42.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 was slain by Lvpvss
+[25Oct2024 01:32:09.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lvpvss: Set own game mode to Survival Mode]
+[25Oct2024 01:33:43.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Dread Beast
+[25Oct2024 01:33:46.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
+[25Oct2024 01:34:55.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L4TT3R14 lost connection: Disconnected
+[25Oct2024 01:34:55.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L4TT3R14 left the game
+[25Oct2024 01:34:55.371] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a72c94b1-df99-4df9-a3db-998020745311 was unloaded
+[25Oct2024 01:36:06.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Dread Beast
+[25Oct2024 01:36:10.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
+[25Oct2024 01:36:18.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
+[25Oct2024 01:36:18.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
