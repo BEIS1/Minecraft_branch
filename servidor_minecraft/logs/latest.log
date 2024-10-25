@@ -3256,3 +3256,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Oct2024 01:36:10.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
 [25Oct2024 01:36:18.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
 [25Oct2024 01:36:18.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
+[25Oct2024 01:58:26.024] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lvpvss is 791753db-d7de-4bfc-8696-127bf4332777
+[25Oct2024 01:58:32.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lvpvss[/127.71.207.222:45381] logged in with entity id 18149 at (1224.6266599412293, 67.0, 36.30000001192093)
+[25Oct2024 01:58:32.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss joined the game
+[25Oct2024 01:58:32.244] [Server thread/INFO] [Jade/]: Syncing config to Lvpvss (791753db-d7de-4bfc-8696-127bf4332777)
+[25Oct2024 02:00:50.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was slain by Dread Beast
+[25Oct2024 02:00:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss was not rescued in time
+[25Oct2024 02:01:02.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lvpvss lost connection: Disconnected
+[25Oct2024 02:01:02.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lvpvss left the game
